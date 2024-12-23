@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# VSCode
+.vscode/
+
+# dotenv files
+.env
+
+# Mac OS
+.DS_Store
+senti/
